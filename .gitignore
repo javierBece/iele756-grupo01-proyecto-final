@@ -1,0 +1,29 @@
+# Environments
+.venv/
+.antigravitycli/
+__pycache__/
+*.pyc
+
+# Raw Data
+Datasets/
+Quiz 1/
+data/viv_hog_per_censo2024.zip
+data/personas_censo2024.parquet
+data/viviendas_censo2024.parquet
+data/hogares_censo2024.parquet
+*.zip
+*.rar
+*.csv
+
+# Original Working Folders (ignored since we copied them to notebooks/ and figs/)
+Tarea 0/
+Tarea 1/
+Tarea 2/
+Tarea 3/
+Tarea final/
+Presentacion_ProyectoFinal.pptx
+fix_tarea1.py
+groups.md
+iele26-1-3datasets.pdf
+run_tarea1.py
+week0-slides.pdf
