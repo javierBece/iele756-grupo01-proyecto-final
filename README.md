@@ -16,7 +16,7 @@ Nuestras tres comunas de estudio de la Región Metropolitana son:
 
 ---
 
-## 2. La Anomalía Defendida: La "Inversa de Okun" Comunal
+## 2. La Anomalía Defendida: Fuerza Laboral en Escala: Detección y corrección de sesgos por apalancamiento en datos comunales
 Durante la Tarea 3, al correlacionar las variables sociodemográficas y de salud, encontramos una correlación de Pearson de **-0.51** (fuertemente negativa y contraintuitiva) entre la **tasa de dependencia demográfica** (`dependency_ratio`) y la **tasa de desempleo** (`pct_unemployed`) a nivel comunal en la Región Metropolitana. 
 
 La teoría y la lógica económica indican que las comunas con mayor cantidad de dependientes (niños de 0-14 años y adultos mayores de 65+) deberían asociarse con mayores tasas de inactividad o desempleo, es decir, una correlación positiva. El hallazgo de que ocurriera exactamente lo contrario sugería un fenómeno anómalo.
