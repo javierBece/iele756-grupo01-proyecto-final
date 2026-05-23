@@ -1,4 +1,4 @@
-# Proyecto Final: One Anomaly, Defended
+# Fuerza Laboral en Escala: Detección y corrección de sesgos por apalancamiento en datos comunales
 **Curso:** IELE756 -- Preparación y Análisis de Datos  
 **Profesor:** Leo Ferres, PhD  
 **Integrantes:** Javier Becerra Muñoz, Jose Pino Muñoz  
