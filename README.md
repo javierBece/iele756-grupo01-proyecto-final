@@ -1,6 +1,7 @@
 # Fuerza Laboral en Escala: Detección y corrección de sesgos por apalancamiento en datos comunales
 **Curso:** IELE756 -- Preparación y Análisis de Datos  
 **Profesor:** Leo Ferres, PhD  
+**Ayudantes:** Alan Spikin, Antuan Vayisqui
 **Integrantes:** Javier Becerra Muñoz, Jose Pino Muñoz  
 **Grupo:** Grupo 1  
 
